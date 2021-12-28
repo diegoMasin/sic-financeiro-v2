@@ -4,6 +4,12 @@
 
 ###### Returning to the study practice of creating frontend using only ReactJS. The training's target theme is a basic personal finance manager.
 
+**Published Project**
+
+```
+https://sic-financeiro-v2.vercel.app/
+```
+
 **Install Project**
 
 ```
